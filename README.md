@@ -30,6 +30,3 @@ A collection of programming exercises for fellow students at the University of N
 
 - **Machine learning:** Python, PyTorch, Flower; time-series forecasting and federated learning.
 - **Scientific computing:** CUDA, MATLAB, C; numerical algorithms and GPU parallelization.
-- **Systems:** embedded Linux, ARMv7 reverse engineering, and hardware validation.
-
-Machine learning is my main interest, and I enjoy exploring other areas of software engineering too.
