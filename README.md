@@ -9,7 +9,7 @@ My work spans federated weather forecasting, GPU computing, and embedded systems
 
 ### Selected work
 
-**[FederatedWeatherCC](https://github.com/Attilio-Di-Vicino/FederatedWeatherCC) · Federated weather forecasting**  
+**[FederatedWeatherCC](https://github.com/Attilio-Di-Vicino/FederatedWeatherCC) · Federated weather forecasting · [BigHPC paper](https://ceur-ws.org/Vol-4124/paper51.pdf) · [IEEE: Weather Forecasting](https://ieeexplore.ieee.org/abstract/document/11761468) · [IEEE: Citizen Weather Networks](https://ieeexplore.ieee.org/abstract/document/11761461)**  
 Collaborative research on forecasting from distributed weather-station data using Transformer and Crossformer models. The repository includes data preprocessing, centralized training, and federated client/server code built with Python, PyTorch, and Flower. I contributed substantially to the research behind the accompanying BigHPC paper, which credits three authors equally and names me as corresponding author.
 
 **[Samsung Tizen 4 USB root](https://github.com/GiuseppeFiorillo/samsung-tv-usb-root-kant-m2) · Embedded systems & reverse engineering**  
