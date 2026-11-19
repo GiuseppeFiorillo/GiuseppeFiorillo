@@ -18,11 +18,13 @@ A project I'm especially proud of: I adapted Luminger's USB-root research to Sam
 **[JCAM_Cuda](https://github.com/GiuseppeFiorillo/JCAM_Cuda) · GPU computing for biological simulation · [Paper](https://doi.org/10.3390/appliedmath5040178)**  
 I ported an existing MATLAB implementation to CUDA for a numerical model of tumor angiogenesis. The published work implements GPU kernels for pivot selection, row swapping, and Gaussian elimination. It reports up to **113× speedup on an NVIDIA H100** against the sequential CPU implementation in the paper's benchmarks.
 
-**[Esercitazioni-C-Parthenope](https://github.com/GiuseppeFiorillo/Esercitazioni-C-Parthenope) · Learning resources in C**  
-A collection of programming exercises for fellow students at the University of Naples Parthenope, covering sorting, text processing, set operations, and exam practice.
+**[CarePath Lab](https://github.com/GiuseppeFiorillo/carepath-lab) · Healthcare data science**  
+An educational project studying recorded hospital readmission in the historical UCI diabetes dataset. I use Python and PostgreSQL for data validation and analysis, compare machine-learning models with patient-grouped validation, and explore calibration and subgroup performance. The project is for learning and research, not clinical use.
 
 ### Publications
 
+- **[Towards Federated Citizen Weather Networks: A Privacy-Preserving Infrastructure for Participatory Coastal Environmental Monitoring](https://ieeexplore.ieee.org/abstract/document/11761461)** — 2026 IEEE International Conference on eScience (eScience).
+- **[Federated Learning for Weather Forecasting Across Distributed Meteorological Station Networks](https://ieeexplore.ieee.org/abstract/document/11761468)** — 2026 IEEE International Conference on eScience (eScience).
 - **[Federated Learning for Distributed Weather Forecasting: A Practical Approach on Real Multidimensional Georeferenced Data](https://ceur-ws.org/Vol-4124/paper51.pdf)** — BigHPC 2025, co-located with ITADATA 2025; CEUR Workshop Proceedings, Vol. 4124. Equal-contribution author and corresponding author.
 - **[A GPU-CUDA Numerical Algorithm for Solving a Biological Model](https://doi.org/10.3390/appliedmath5040178)** — AppliedMath, 5(4), 178, 2025. My contribution: software implementation, including the MATLAB-to-CUDA port.
 
